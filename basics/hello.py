@@ -6,4 +6,4 @@ print('Python is easy!')
 # indentation
 # 4 spaces of indentation - most common in python for a block of code
 
-# data type
+# data types
