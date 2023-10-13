@@ -1,6 +1,6 @@
 a = 20
 b = 20
-# id function to print the memory location
+# id function- to print the memory location
 print(id(a))
 print(id(b))
 print(a is b)
